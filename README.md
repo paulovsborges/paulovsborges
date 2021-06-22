@@ -1,7 +1,10 @@
 ### Olá mundo 👋
 
+```Description
 Gosto de aprender, inovar, evoluir e interagir.
 Sou um músico procurando mudar de rumo.
+
+```
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
