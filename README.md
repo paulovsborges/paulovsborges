@@ -1,10 +1,9 @@
-Faça uma breve aprensentação sua com o seu nome e não esqueça a Sua área.
-Diga o que você está fazendo no momento, se trabalha ou estuda.
+<a href="https://github.com/paulovsborges">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
+</a>
 
-🦄 Linguagens: Coloque as linguagens que você desenvolve.
-
-💼 Ferramentas: Coloque as suas ferramentas de trabalho.
-
-💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-
+<a href="https://github.com/paulovsborges">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**Paulo Borges** github stats"/>
+</a>
     
+
