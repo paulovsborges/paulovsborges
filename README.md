@@ -31,7 +31,7 @@ object **PAULO** {
 
 
 [instagram]: https://www.instagram.com/pauloborgesvs/
-[linkedin]: https://www.linkedin.com/in/PauloVS Borges/
+[linkedin]: https://www.linkedin.com/in/paulovs-borges-552521137//
 <br>
 
 #### Rede Sociais!
