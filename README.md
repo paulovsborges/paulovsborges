@@ -40,7 +40,7 @@ object **PAULO** {
 
 ### Meu principal projeto: [repositorio](https://github.com/paulovsborges/BookApi)
 #### Principais tecnologias utilizadas: Kotlin, MVVM, Retrofit, RecyclerView, Gson.
-https://github.com/paulovsborges/BookApi
+
 
 #### Rede Sociais!
 
