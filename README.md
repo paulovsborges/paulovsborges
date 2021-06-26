@@ -38,6 +38,9 @@ object **PAULO** {
 [linkedin]: https://www.linkedin.com/in/paulovs-borges-552521137//
 <br>
 
+### Principal projeto:
+https://github.com/paulovsborges/BookApi
+
 #### Rede Sociais!
 
 
