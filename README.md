@@ -38,7 +38,8 @@ object **PAULO** {
 [linkedin]: https://www.linkedin.com/in/paulovs-borges-552521137//
 <br>
 
-### Principal projeto:
+### Books API:
+#### Principais tecnologias utilizadas: Kotlin, MVVM, Retrofit, RecyclerView, Gson.
 https://github.com/paulovsborges/BookApi
 
 #### Rede Sociais!
