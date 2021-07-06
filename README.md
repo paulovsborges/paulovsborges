@@ -38,8 +38,8 @@ object **PAULO** {
 [linkedin]: https://www.linkedin.com/in/paulovs-borges-552521137//
 <br>
 
-### Meu principal projeto: [repositorio](https://github.com/paulovsborges/BookApi)
-#### Principais tecnologias utilizadas: Kotlin, MVVM, Retrofit, RecyclerView, Gson.
+### Meu principal projeto: [repositorio](https://github.com/paulovsborges/NewsApiApp)
+#### Principais tecnologias utilizadas: Kotlin, MVVM, Retrofit, RecyclerView, Gson, bottomSheet, SwipeRefresh, Koin.
 
 
 #### Rede Sociais!
