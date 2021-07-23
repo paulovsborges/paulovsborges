@@ -17,6 +17,7 @@ object **PAULO** {
  
  val primarySkillset = "Kotlin"
  val languages = listOf("Kotlin", "SQL", "C++"") 
+ val status = "Working as a android developer Jr in PremierSoft"
 
 }
 ```
