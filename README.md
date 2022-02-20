@@ -40,7 +40,7 @@ object **PAULO** {
 <br>
 
 ### Meu principal projeto: [repositorio](https://github.com/paulovsborges/MarvelApp)
-#### Principais tecnologias utilizadas: Kotlin, MVVM, Retrofit, RecyclerView, Gson, bottomSheet, SwipeRefresh, Koin.
+#### Principais tecnologias utilizadas: Retrofit, Room, Gson, mockito, dagger hilt, clean architecture.
 
 
 #### Rede Sociais!
