@@ -36,7 +36,7 @@ object **PAULO** {
 
 
 [instagram]: https://www.instagram.com/pauloborgesvs/
-[linkedin]: https://www.linkedin.com/in/paulovs-borges-552521137//
+[linkedin]: https://www.linkedin.com/in/paulo-borges-552521137/
 <br>
 
 ### Meu principal projeto: [repositorio](https://github.com/paulovsborges/ECommerceWhiteLabel)
