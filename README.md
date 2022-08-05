@@ -39,8 +39,8 @@ object **PAULO** {
 [linkedin]: https://www.linkedin.com/in/paulovs-borges-552521137//
 <br>
 
-### Meu principal projeto: [repositorio](https://github.com/paulovsborges/MarvelApp)
-#### Principais tecnologias utilizadas: Retrofit, Room, Gson, mockito, dagger hilt, clean architecture.
+### Meu principal projeto: [repositorio](https://github.com/paulovsborges/ECommerceWhiteLabel)
+#### Principais tecnologias utilizadas: Retrofit, Room, Gson, Moshi, Ktor, Mockk, Data Store, Firebase, mockito, dagger hilt, clean architecture.
 
 
 #### Rede Sociais!
