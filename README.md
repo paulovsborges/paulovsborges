@@ -39,7 +39,7 @@ object **PAULO** {
 [linkedin]: https://www.linkedin.com/in/paulo-borges-552521137/
 <br>
 
-### Meu principal projeto: [repositorio](https://github.com/paulovsborges/ECommerceWhiteLabel)
+### Meu principal projeto: [repositorio](https://github.com/paulovsborges/LockTapCompose)
 #### Principais tecnologias utilizadas: Retrofit, Room, Gson, Moshi, Ktor, Mockk, Data Store, Firebase, mockito, dagger hilt, clean architecture.
 
 
